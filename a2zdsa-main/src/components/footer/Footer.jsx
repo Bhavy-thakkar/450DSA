@@ -3,8 +3,8 @@ import { Flex, Link, Text } from '@chakra-ui/react'
 const Footer = () => {
     const originalDsaSheetLink =
         'https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/'
-    const originalAuthorLinkedInLink = 'https://in.linkedin.com/in/rajarvp'
-    const gitHubLink = 'https://github.com/aditya-190/a2zdsa'
+    const originalAuthorLinkedInLink = 'https://www.linkedin.com/in/rajstriver/'
+    const gitHubLink = 'https://github.com/Bhavy-thakkar/450DSA'
 
     return (
         <Flex
